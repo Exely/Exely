@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Yunfeng Qiu (邱云峰)](https://github.com/Exely)👋
 
-- 🔭 I’m currently a M.S. student of computer science in [XJTU](http://www.xjtu.edu.cn/).
+- 🔭 I’m currently an M.S. student of computer science in [XJTU](http://www.xjtu.edu.cn/).
 - 🤔 My research interests lie primaily in Crowd Counting, Computer Vision.
 - 🤝🏻 Contact with me via [Email](yfqiu2015@stu.xjtu.edu.cn).
 
